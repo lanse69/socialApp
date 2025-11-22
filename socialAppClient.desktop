@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=socialAppClient
+Comment=My Social MySQL C++ Application
+# Icon=/home/Picture/iconSocial.jpg
+Icon=qq
+Exec=/usr/local/bin/socialAppClient
+Terminal=true
+Categories=Application;
